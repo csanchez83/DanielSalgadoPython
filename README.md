@@ -1,5 +1,6 @@
 # Python
+
 Notebooks para curso de Introducción a la programación con Python
 
-### Python como calculadora
-### Más bloques básicos de construcción: contenedores
+1.a Python como calculadora
+1.b Más bloques básicos de construcción: contenedores
